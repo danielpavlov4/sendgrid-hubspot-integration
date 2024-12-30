@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -130,4 +129,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 .vercel
->>>>>>> 69ad901 (Initial commit with updated index.js functionality)
+
